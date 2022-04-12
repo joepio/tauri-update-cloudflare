@@ -7,8 +7,8 @@ workers_dev = true
 compatibility_date = "2022-03-26"
 
 [vars]
-GITHUB_ACCOUNT = 'killeencode'
-GITHUB_REPO = 'brancato'
+GITHUB_ACCOUNT = 'joepio'
+GITHUB_REPO = 'atomic-data-rust'
 
 [build]
 command = "npm install && npm run build"
